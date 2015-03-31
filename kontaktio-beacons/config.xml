@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget
+	id="com.evothings.kontaktiobeacons"
+	version="0.0.1"
+	xmlns="http://www.w3.org/ns/widgets"
+	xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Beacons</name>
+    <description>
+        Kontakt.io example app.
+    </description>
+    <author email="info@evothings.com" href="http://evothings.com">
+        Evothings AB
+    </author>
+    <content src="index.html" />
+    <xcontent src="http://192.168.43.131:4042" />
+    <access origin="*" />
+</widget>
